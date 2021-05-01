@@ -1,16 +1,3 @@
-Libraries:
-1. plotly
-2. geopandas
-3. seaborn
-3. pandas
-4. numpy
-5. statsmodels
-6. itertools
-7. sklearn
-8. datetime
-9. re
-
-
 code files & references:
 RUN:  "python3 <file name>"  in terminal
 
