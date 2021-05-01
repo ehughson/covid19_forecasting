@@ -1,4 +1,4 @@
-Libraries to download:
+Libraries:
 1. plotly
 2. geopandas
 3. seaborn
