@@ -34,7 +34,7 @@ Prevention (CDC) about hospital bed occupancy.
 > The CDC dataset can be found on the CDC’s website under current hospital capacity estimates. This page is dedicated to Covid-19 related data and focuses on the current inpatient and ICU bed occupancy estimates. The data is submitted by hospitals in the United States to the NHSN COVID-19 Module and is weighted and imputed to account for non-responses and missing data.
 > Collection occurred between April 4th to July 7th, 2020. The data comes with the estimated number of beds being occupied by Covid-19 patients in both inpatient and ICU areas of hospitals, confidence intervals, and the amount of inpatient and ICU beds occupied by all patients. 
 > This repo focuses on only inpatient beds not ICU beds. 
->> The attributes used for analysis:
+> The attributes used for analysis:
 	> -‘Day for which estimate is made’ (renamed date).
 	> -‘Number of patients in an inpatient care location who have suspected or confirmed COVID-19, percent estimate (percent ofinpatient beds)’.
 	> -'Number of patients in an inpatient care location who have suspected or confirmed COVID-19, estimate' (renamed bed amount). 
