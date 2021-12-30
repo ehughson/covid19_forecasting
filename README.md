@@ -2,7 +2,7 @@
 The coronavirus pandemic, also known as Covid-19, of 2020 has swept the world by storm. Countries’ economies are falling apart, and thousands of people are losing their lives because of this disease. However, most countries’ terror has become more manageable. While in comparison the United States has seen many pitfalls in attempts to control the virus. Currently, some of the most populous states, such as Florida, are quickly relaxing measures to return to normal life at the expense of an increase in Covid-19 cases [1]. As shown in figure 1, the choropleth heat map illustrates the amount of covid-19 cases in each state as of July. Places like Florida and Texas have seen high amount of cases when compared to states like Washington. In addition to the number of cases, figure 2, demonstrates the amount of inpatient hospital beds being occupied by covid-19 patients. The number of inpatient beds being occupied are high in states like Florida and Texas while low in Washington. This provides insight into a possible relationship between hospital beds and confirmed cases. As cases rise do beds become more occupied with covid-19 patients?
 
 <p align="center">
-  <img width="460" height="300" src="heatmaps.png">
+  <img src="heatmaps.png">
 </p>
 
 ## Datasets
