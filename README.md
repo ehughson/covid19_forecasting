@@ -36,8 +36,8 @@ Prevention (CDC) about hospital bed occupancy.
 > This repo focuses on only inpatient beds not ICU beds. 
 >> The attributes used for analysis:
 	>
-	> * ‘Day for which estimate is made’ (renamed date).
-	> * ‘Number of patients in an inpatient care location who have suspected or confirmed COVID-19, percent estimate (percent ofinpatient beds)’.
-	> * 'Number of patients in an inpatient care location who have suspected or confirmed COVID-19, estimate' (renamed bed amount). 
+	> * Day for which estimate is made’ (renamed date).
+	> * Number of patients in an inpatient care location who have suspected or confirmed COVID-19, percent estimate (percent ofinpatient beds)’.
+	> * Number of patients in an inpatient care location who have suspected or confirmed COVID-19, estimate' (renamed bed amount). 
 >
 > The current data for hospital beds is only reported up to July 14th, 2020 and has not been updated since. 
